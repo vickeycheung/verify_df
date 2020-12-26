@@ -2,7 +2,7 @@ package com.youcash.ucff.verm2;
 
 import org.junit.Test;
 
-public class DfMainTest {
+public class Df2MainTest {
 	
 	@Test
 	public void dosthTest(){
