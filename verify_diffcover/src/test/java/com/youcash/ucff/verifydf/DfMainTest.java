@@ -11,6 +11,6 @@ public class DfMainTest {
 		
 		DfNotCommit dfc = new DfNotCommit();
 		dfc.justDoSth1();
-		//dfc.justDoSth2NotTest();
+		dfc.justDoSth2NotTest();
 	}
 }

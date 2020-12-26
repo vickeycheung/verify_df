@@ -11,6 +11,6 @@ public class Df2MainTest {
 		
 		Dfm2NotCommit dfc = new Dfm2NotCommit();
 		dfc.justDoSth1();
-		//dfc.justDoSth2NotTest();
+		dfc.justDoSth2NotTest();
 	}
 }
